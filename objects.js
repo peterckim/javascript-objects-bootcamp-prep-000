@@ -1,5 +1,5 @@
 var playlist = {
-  Drake: "God's Plan",
+  Drake: "God's Plan"
 }
 
 
