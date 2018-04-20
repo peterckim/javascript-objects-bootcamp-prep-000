@@ -1,9 +1,8 @@
 var playlist = {
-  artist: 'Drake',
-  song: "God's Plan"
+  Drake: "God's Plan",
 }
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artistName] = '';
+  playlist[artistName] = 'Thinking Out Loud';
 }
